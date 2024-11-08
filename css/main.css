@@ -1,0 +1,45 @@
+h1
+{
+    color: blue;
+    background-color: black;
+    text-align: center;
+    font-family:"Edu AU VIC WA NT Pre", cursive; 
+}
+*{
+    background-color: rgb(255, 255, 255);
+}
+.card{
+    color: blue;
+    width: 24%;
+    height: auto;
+    border: 1px solid black;
+    display:inline-block;
+}
+img{width: 100%;}
+
+.card1{
+    color: blue;
+    width: 24%;
+    height: auto;
+    border: 1px solid black;
+    display:inline-block;
+}
+img{width: 100%;}
+
+.card2{
+    color: blue;
+    width: 24%;
+    height: auto;
+    border: 1px solid black;
+    display:inline-block;
+}
+img{width: 100%;}
+
+.card3{
+    color: blue;
+    width: 24%;
+    height: auto;
+    border: 1px solid black;
+    display:inline-block;
+}
+img{width: 100%;}
